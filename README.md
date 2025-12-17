@@ -105,8 +105,6 @@ Zepto_SQL_Miniproject/
 
 ## 👨‍💻 Author
 
-**Sarthak Avhad**
-B.E. Computer Engineering
 
 ---
 
