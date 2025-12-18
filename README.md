@@ -67,30 +67,6 @@ This query helps in understanding the size of the dataset.
 * Perform **basic data exploration** using SQL
 * Learn how real-world e-commerce data can be structured
 
----
-
-## 🚀 How to Run the Project
-
-1. Open your SQL environment (PostgreSQL / MySQL-compatible DB)
-2. Create a database (optional)
-3. Run the SQL file:
-
-```sql
-Zepto_SQL_Miniproject.sql
-```
-
-4. Execute the queries to explore the data
-
----
-
-## 📁 Project Structure
-
-```
-Zepto_SQL_Miniproject/
-│
-├── Zepto_SQL_Miniproject.sql
-└── README.md
-```
 
 ---
 
@@ -100,17 +76,4 @@ Zepto_SQL_Miniproject/
 * Mini project for college submissions
 * Understanding e-commerce product data
 * Interview preparation for SQL basics
-
----
-
-## 👨‍💻 Author
-
-
----
-
-## ⭐ Acknowledgment
-
-This project is created for **learning and practice purposes**, inspired by quick-commerce platforms like Zepto.
-
----
 
